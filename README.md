@@ -57,11 +57,15 @@ With **9+ years of experience** developing and architecting complex, mission-cri
 
 ---
 
-### 📊 GitHub Activity
+### 📊 Engineering Highlights & Scale
 
 <div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=caiograciano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Caio's GitHub Stats" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiograciano&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+| **Leadership & Scale** | **System Reliability & Architecture** | **Global Experience** |
+| :---: | :---: | :---: |
+| **Squad of 6 Devs** led at South | **52+ Active B2B Clients** scaled (+136%) | **Fortune 500** Global Delivery |
+| **Full SaaS Lifecycle** @ TechSmart | **9+ Years** building web platforms | **100% English** distributed squads |
+
 </div>
 
 ---
